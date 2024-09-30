@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Demo
+
+You can view the live demo of the Todo List application here: [Animated Todo List](https://todo-list-animated.netlify.app/).
 
 ## Available Scripts
 
